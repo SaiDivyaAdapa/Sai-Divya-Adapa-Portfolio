@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am an experienced **Data Analyst** with 6 years 
 
 ## 🌟 Academic Background
 
-- 🎓 **Master of Science in Artificial Intelligence** (CGPA: 4.0)  
+- 🎓 **Master of Science in Artificial Intelligence**   
   *University of North Texas | Jan 2023 - Dec 2024*  
 - 🎓 **Bachelor of Technology in Electronics and Telematics**  
   *Jawaharlal Nehru Technological University | Jul 2014 - May 2018*  
