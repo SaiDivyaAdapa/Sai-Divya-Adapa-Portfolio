@@ -52,33 +52,5 @@ Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stac
 
 ---
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiDivyaAdapa&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiDivyaAdapa&theme=radical)]()
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiDivyaAdapa&theme=radical)]()
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiDivyaAdapa&theme=radical)]()
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiDivyaAdapa&theme=radical&utcOffset=8)]()
 
 
-import matplotlib.pyplot as plt
-
-# Skills and usage percentage
-skills = ['Python', 'JavaScript', 'Java', 'C++', 'SQL']
-percentages = [40, 25, 15, 10, 10]  # Adjust percentages as per your usage
-
-# Create pie chart
-plt.figure(figsize=(7,7))
-plt.pie(
-    percentages, 
-    labels=skills, 
-    autopct='%1.1f%%', 
-    startangle=140, 
-    wedgeprops={'edgecolor':'white'}
-)
-
-# Title
-plt.title("Most Used Programming Languages", fontsize=16, fontweight='bold')
-
-# Show visualization
-plt.show()
