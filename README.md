@@ -52,10 +52,10 @@ Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stac
 
 ---
 
-## 📈 GitHub Stats  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiDivyaAdapa&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDivyaAdapa&show_icons=true&theme=radical)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiDivyaAdapa&theme=radical)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiDivyaAdapa&theme=radical)]()
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDivyaAdapa&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SaiDivyaAdapa&theme=radical)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiDivyaAdapa&theme=radical)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiDivyaAdapa&theme=radical&utcOffset=8)]()
