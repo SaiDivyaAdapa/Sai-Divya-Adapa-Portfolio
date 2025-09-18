@@ -51,11 +51,3 @@ Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stac
 - Data Visualization (Tableau, Power BI, Plotly, Seaborn)  
 
 ---
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-divya-adapa&show_icons=true&theme=highcontrast)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-divya-adapa&layout=compact&theme=highcontrast)  
-
-![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-divya-adapa&theme=highcontrast)  
