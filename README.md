@@ -52,14 +52,10 @@ Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stac
 
 ---
 
-## 📊 Skills Visualization  
+## 📈 GitHub Stats  
 
-![Skills Pie Chart](https://quickchart.io/chart?c={
-  type:'pie',
-  data:{
-    labels:['Python','JavaScript','SQL','React','Django','Flask','FastAPI','Docker','Kubernetes','AWS'],
-    datasets:[{
-      data:[30,15,10,10,10,5,5,5,5,5]
-    }]
-  }
-})
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDivyaAdapa&show_icons=true&theme=radical)  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDivyaAdapa&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SaiDivyaAdapa&theme=radical)  
