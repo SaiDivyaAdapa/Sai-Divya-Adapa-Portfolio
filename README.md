@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stac
 - RESTful API & Microservices Architecture  
 - Data Engineering & ETL Pipelines  
 - Machine Learning (scikit-learn, TensorFlow, PyTorch)  
-- Cloud Deployment (AWS, GCP, Azure)  
+- Cloud Deployment (AWS, Azure)  
 - DevOps & CI/CD (Docker, Kubernetes, Jenkins, GitHub Actions)  
-- Data Visualization (Tableau, Power BI, Plotly, Seaborn)  
+- Data Visualization (Tableau, Power BI, Plotly, Seaborn, matplotlib)  
 
 ---
 
