@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sai Divya!
 
-Welcome to my GitHub profile! I am an experienced **Python Developer & Full-Stack Engineer** with 8+ years of professional expertise. I’m passionate about building scalable applications, designing data-driven solutions, and integrating machine learning into production systems.
+Welcome to my GitHub profile! I’m passionate about building scalable applications, designing data-driven solutions, and integrating machine learning into production systems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sai-divya-adapa&color=brightgreen)
 
