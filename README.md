@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adapadivyasai31/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/SaiDivyaAdapa/Sai-Divya-Adapa-Portfolio)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:divyasai3195@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:adapasaidivya3108@gmail.com)  
 
 ---
 
