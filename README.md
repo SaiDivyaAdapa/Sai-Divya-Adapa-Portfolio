@@ -11,16 +11,16 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 - 🎓 **Master of Science in Computer Science**  
   *University of North Texas | Aug 2023 - May 2025*  
 - 🎓 **Bachelor of Engineering in Electronics and Communications Engineering**  
-  *Andhra Loyola Institute of Technology & Sciences | 2014 - 2017*  
+  *Andhra Loyola Institute of Technology & Sciences | 2017 - 2021*  
 - 🌐 Visit my [Portfolio](#) for more about my work!  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adapadivyasai31/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adapadivya/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/SaiDivyaAdapa/Sai-Divya-Adapa-Portfolio)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:adapasaidivya3108@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:adapasaidivya3195@gmail.com)  
 
 ---
 
